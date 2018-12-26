@@ -1,2 +1,2 @@
-- Here I will keep solutions for Prolog Programming Artificial Intelligence Exercises. 
+- Here I will keep solutions for Ivan Bratko's Prolog Programming Artificial Intelligence Book Exercises. 
 - Keep in mind that it's better to try to solve them yourself before looking up the other's solution :)
